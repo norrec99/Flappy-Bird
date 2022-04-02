@@ -50,6 +50,7 @@ public class Player : MonoBehaviour
       scoreBoard.IncreaseScore(scorePerObstacle);
       audioSource.PlayOneShot(collectSound);
     }
+    Destroy(other.gameObject);
   }
 
   IEnumerator WaitForGravity()
