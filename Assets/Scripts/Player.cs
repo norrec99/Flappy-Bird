@@ -8,6 +8,8 @@ public class Player : MonoBehaviour
   [SerializeField] float jumpForce = 15f;
   [SerializeField] int scorePerObstacle = 10;
 
+  bool isStarted = false;
+
   ScoreBoard scoreBoard;
 
 
@@ -15,7 +17,7 @@ public class Player : MonoBehaviour
   // Start is called before the first frame update
   void Start()
   {
-    rb = GetComponent<Rigidbody2D>();
+    StartCoroutine(WaitForGravity());
     scoreBoard = FindObjectOfType<ScoreBoard>();
   }
 
@@ -28,7 +30,7 @@ public class Player : MonoBehaviour
 
   void ProcessJump()
   {
-    if (Input.GetKey(KeyCode.Space))
+    if (Input.GetKey(KeyCode.Space) && isStarted)
     {
       rb.velocity = Vector2.up * jumpForce;
     }
@@ -40,6 +42,15 @@ public class Player : MonoBehaviour
     {
       scoreBoard.IncreaseScore(scorePerObstacle);
     }
+  }
+
+  IEnumerator WaitForGravity()
+  {
+    rb = GetComponent<Rigidbody2D>();
+    rb.gravityScale = 0;
+    yield return new WaitForSeconds(0.5f);
+    isStarted = true;
+    rb.gravityScale = 5;
   }
 
 }

@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 47e78766fd8ac0c4daea316e36ab95ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9157809494607310172
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_0
+  - first:
+      213: 7471175558304759934
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_1
+  - first:
+      213: -7992378012570033384
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_2
+  - first:
+      213: 3366591542547321239
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_3
+  - first:
+      213: 1551941551053019980
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_4
+  - first:
+      213: 517927105849594731
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_5
+  - first:
+      213: -677091100047435421
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_6
+  - first:
+      213: -4978016705189634012
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_7
+  - first:
+      213: -405744551535484226
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_8
+  - first:
+      213: 3176532629201371946
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_9
+  - first:
+      213: -2287320796340454982
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_10
+  - first:
+      213: -2484933252931481211
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_11
+  - first:
+      213: -2720923363539918594
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_12
+  - first:
+      213: 7983278634301706843
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_13
+  - first:
+      213: 2195665584351498064
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_14
+  - first:
+      213: 6089367650691967779
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_15
+  - first:
+      213: -7815466187842762834
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_16
+  - first:
+      213: -1721078126772047793
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_17
+  - first:
+      213: -3194370553915384473
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_18
+  - first:
+      213: 1791663599283345431
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_19
+  - first:
+      213: -1868725831023750560
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_20
+  - first:
+      213: -3045331504801889314
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_21
+  - first:
+      213: -6308316294910425644
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_22
+  - first:
+      213: 3090936568504710827
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_23
+  - first:
+      213: 4611561337769804755
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_24
+  - first:
+      213: 4397581142912318062
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_25
+  - first:
+      213: -996639515637396354
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_26
+  - first:
+      213: 4234203239366653320
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_27
+  - first:
+      213: 1247162400830417448
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_28
+  - first:
+      213: -8709863734525214632
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_29
+  - first:
+      213: 6391343576919330030
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_30
+  - first:
+      213: -1217335585703595938
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_31
+  - first:
+      213: 7039140102576482185
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_32
+  - first:
+      213: -5468048937106346676
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_33
+  - first:
+      213: -6767428235398383379
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_34
+  - first:
+      213: -4522123067864597776
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_35
+  - first:
+      213: -7131070411005530554
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_36
+  - first:
+      213: -6372267669134507901
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_37
+  - first:
+      213: -2679932715063055385
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_38
+  - first:
+      213: -4686213587267820136
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_39
+  - first:
+      213: 6830143881323529112
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_40
+  - first:
+      213: -1369165675842965690
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_41
+  - first:
+      213: -6642429817283767323
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_42
+  - first:
+      213: -4638019703933486309
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_43
+  - first:
+      213: 8179165856152952797
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_44
+  - first:
+      213: -1299215358097060913
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_45
+  - first:
+      213: 3633432084783351094
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_46
+  - first:
+      213: 1589098196238073244
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_47
+  - first:
+      213: 9221079349451436078
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_48
+  - first:
+      213: 3636619677508081318
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_49
+  - first:
+      213: -5886244637885249405
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_50
+  - first:
+      213: -4184565099408774218
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_51
+  - first:
+      213: 7960379639725126396
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_52
+  - first:
+      213: 3636612497673770201
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_53
+  - first:
+      213: -6512831130590728874
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_54
+  - first:
+      213: 7574147854993925899
+    second: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.57269734, y: 0.9028069}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 215, y: 194, z: 50, w: 11}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da4c61733171f70800000000000000
+      internalID: 9157809494607310172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 97
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7006571692fea760800000000000000
+      internalID: 7471175558304759934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ee120b8e551190800000000000000
+      internalID: -7992378012570033384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 194
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911e55cb2988be20800000000000000
+      internalID: 3366591542547321239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 201
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b1fae3e9a998510800000000000000
+      internalID: 1551941551053019980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 205
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6316bb65fb003700800000000000000
+      internalID: 517927105849594731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369181d5b3d7a96f0800000000000000
+      internalID: -677091100047435421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 160
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42026396e288aeab0800000000000000
+      internalID: -4978016705189634012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 162
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26d28ea718e5af0800000000000000
+      internalID: -405744551535484226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 168
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a234cf4a89f451c20800000000000000
+      internalID: 3176532629201371946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab973cebaddc140e0800000000000000
+      internalID: -2287320796340454982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 175
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58196784f5eb38dd0800000000000000
+      internalID: -2484933252931481211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0642fed965d3ad0800000000000000
+      internalID: -2720923363539918594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 175
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52d484ee9d4ace60800000000000000
+      internalID: 7983278634301706843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 136
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f42d04732987e10800000000000000
+      internalID: 2195665584351498064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 148
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bef3e8d97c18450800000000000000
+      internalID: 6089367650691967779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 144
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74e8709e2e98390800000000000000
+      internalID: -7815466187842762834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 145
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40be07ff808d18e0800000000000000
+      internalID: -1721078126772047793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 152
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd7ecd7e05ba3d0800000000000000
+      internalID: -3194370553915384473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 152
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71818480d844dd810800000000000000
+      internalID: 1791663599283345431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 152
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0629b33f1c3f016e0800000000000000
+      internalID: -1868725831023750560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 136
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34af8912fccb5d0800000000000000
+      internalID: -3045331504801889314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 140
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d54e0fa0cb5478a0800000000000000
+      internalID: -6308316294910425644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 117
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6fcfcbe6635ea20800000000000000
+      internalID: 3090936568504710827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 127
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c1b58a9e8fff30800000000000000
+      internalID: 4611561337769804755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 124
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6abe3600c8570d30800000000000000
+      internalID: 4397581142912318062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 108
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cc05514a93b22f0800000000000000
+      internalID: -996639515637396354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 108
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f1459969e2ca30800000000000000
+      internalID: 4234203239366653320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 92
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a68b6889fce4110800000000000000
+      internalID: 1247162400830417448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850419d8419502780800000000000000
+      internalID: -8709863734525214632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec40c3de1d92b850800000000000000
+      internalID: 6391343576919330030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50f1b90cb72b1fe0800000000000000
+      internalID: -1217335585703595938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987274ad0ac00b160800000000000000
+      internalID: 7039140102576482185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 92
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4de25176769d14b0800000000000000
+      internalID: -5468048937106346676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8712210e34512a0800000000000000
+      internalID: -6767428235398383379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 66
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fab45d67013e31c0800000000000000
+      internalID: -4522123067864597776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e67b34e39590d90800000000000000
+      internalID: -7131070411005530554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_37
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380088f01582197a0800000000000000
+      internalID: -6372267669134507901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 73
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe7b00567fecad0800000000000000
+      internalID: -2679932715063055385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ea4d229937feb0800000000000000
+      internalID: -4686213587267820136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c8132cab89ce50800000000000000
+      internalID: 6830143881323529112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fe8bc621fbffce0800000000000000
+      internalID: -1369165675842965690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39657364951d3a0800000000000000
+      internalID: -6642429817283767323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b38cd07a172afb0800000000000000
+      internalID: -4638019703933486309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1007d20c328170800000000000000
+      internalID: 8179165856152952797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_45
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb84ede38248fde0800000000000000
+      internalID: -1299215358097060913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_46
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635c409fa3b8c6230800000000000000
+      internalID: 3633432084783351094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_47
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dfbfbd36c9d0610800000000000000
+      internalID: 1589098196238073244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 69
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e203ebd10dad7ff70800000000000000
+      internalID: 9221079349451436078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6901d345ed77230800000000000000
+      internalID: 3636619677508081318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884dc140bbdf4ea0800000000000000
+      internalID: -5886244637885249405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb2e3e76307de5c0800000000000000
+      internalID: -4184565099408774218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 61
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2711f3b13f87e60800000000000000
+      internalID: 7960379639725126396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 89
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4579d8cc7d77230800000000000000
+      internalID: 3636612497673770201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_54
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 35
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65da80bd796cd95a0800000000000000
+      internalID: -6512831130590728874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites (1)_55
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0723353857cc1960800000000000000
+      internalID: 7574147854993925899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
