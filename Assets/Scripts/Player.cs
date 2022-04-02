@@ -7,9 +7,11 @@ public class Player : MonoBehaviour
 {
   [SerializeField] float jumpForce = 10f;
   [SerializeField] int scorePerObstacle = 10;
+  [SerializeField] int goldScorePerObstacle = 50;
 
   [SerializeField] AudioClip jumpSound;
   [SerializeField] AudioClip collectSound;
+  [SerializeField] AudioClip goldSound;
 
   bool isStarted = false;
 
@@ -18,6 +20,7 @@ public class Player : MonoBehaviour
 
 
   Rigidbody2D rb;
+
   // Start is called before the first frame update
   void Start()
   {
@@ -49,6 +52,11 @@ public class Player : MonoBehaviour
     {
       scoreBoard.IncreaseScore(scorePerObstacle);
       audioSource.PlayOneShot(collectSound);
+    }
+    else if (other.gameObject.CompareTag("Gold"))
+    {
+      scoreBoard.IncreaseScore(goldScorePerObstacle);
+      audioSource.PlayOneShot(goldSound);
     }
     Destroy(other.gameObject);
   }
