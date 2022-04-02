@@ -7,6 +7,9 @@ TagManager:
   - Wall
   - ShowOnPause
   - Score
+  - Gold
+  - Skull
+  - Score1
   layers:
   - Default
   - TransparentFX
