@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
   [SerializeField] int scorePerObstacle = 10;
 
   [SerializeField] AudioClip jumpSound;
+  [SerializeField] AudioClip collectSound;
 
   bool isStarted = false;
 
@@ -37,10 +38,8 @@ public class Player : MonoBehaviour
     if (Input.GetKeyDown(KeyCode.Space) && isStarted)
     {
       rb.velocity = Vector2.up * jumpForce;
-      if (!audioSource.isPlaying)
-      {
-        audioSource.PlayOneShot(jumpSound);
-      }
+      audioSource.PlayOneShot(jumpSound);
+
     }
   }
 
@@ -49,6 +48,7 @@ public class Player : MonoBehaviour
     if (other.gameObject.CompareTag("Score"))
     {
       scoreBoard.IncreaseScore(scorePerObstacle);
+      audioSource.PlayOneShot(collectSound);
     }
   }
 
