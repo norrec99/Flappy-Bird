@@ -433,7 +433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 10
-  score: 0
+  scorePerObstacle: 10
 --- !u!50 &1103304650
 Rigidbody2D:
   serializedVersion: 4
@@ -624,8 +624,9 @@ GameObject:
   - component: {fileID: 1462759192}
   - component: {fileID: 1462759194}
   - component: {fileID: 1462759193}
+  - component: {fileID: 1462759195}
   m_Layer: 5
-  m_Name: Score
+  m_Name: ScoreBoard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -692,6 +693,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1462759191}
   m_CullTransparentMesh: 1
+--- !u!114 &1462759195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462759191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c10ed5e8f922584696a2a6e834a6011, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &3841994969270988907
 Transform:
   m_ObjectHideFlags: 0

@@ -6,7 +6,9 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
   [SerializeField] float jumpForce = 15f;
-  public int score = 0;
+  [SerializeField] int scorePerObstacle = 10;
+
+  ScoreBoard scoreBoard;
 
 
   Rigidbody2D rb;
@@ -14,6 +16,7 @@ public class Player : MonoBehaviour
   void Start()
   {
     rb = GetComponent<Rigidbody2D>();
+    scoreBoard = FindObjectOfType<ScoreBoard>();
   }
 
   // Update is called once per frame
@@ -35,8 +38,7 @@ public class Player : MonoBehaviour
   {
     if (other.gameObject.CompareTag("Score"))
     {
-      score += 1;
-      Debug.Log("Score: " + score);
+      scoreBoard.IncreaseScore(scorePerObstacle);
     }
   }
 
