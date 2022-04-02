@@ -8,9 +8,12 @@ public class Player : MonoBehaviour
   [SerializeField] float jumpForce = 10f;
   [SerializeField] int scorePerObstacle = 10;
 
+  [SerializeField] AudioClip jumpSound;
+
   bool isStarted = false;
 
   ScoreBoard scoreBoard;
+  AudioSource audioSource;
 
 
   Rigidbody2D rb;
@@ -19,6 +22,7 @@ public class Player : MonoBehaviour
   {
     StartCoroutine(WaitForGravity());
     scoreBoard = FindObjectOfType<ScoreBoard>();
+    audioSource = GetComponent<AudioSource>();
   }
 
   // Update is called once per frame
@@ -33,6 +37,10 @@ public class Player : MonoBehaviour
     if (Input.GetKey(KeyCode.Space) && isStarted)
     {
       rb.velocity = Vector2.up * jumpForce;
+      if (!audioSource.isPlaying)
+      {
+        audioSource.PlayOneShot(jumpSound);
+      }
     }
   }
 
