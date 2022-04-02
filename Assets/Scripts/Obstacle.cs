@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CollisionHandler : MonoBehaviour
+public class Obstacle : MonoBehaviour
 {
+  [SerializeField] float xForce = 5f;
   // Start is called before the first frame update
   void Start()
   {
@@ -13,13 +14,11 @@ public class CollisionHandler : MonoBehaviour
   // Update is called once per frame
   void Update()
   {
-
+    ProcessForward();
   }
-  void OnCollisionEnter2D(Collision2D other)
+  void ProcessForward()
   {
-    if (other.gameObject.CompareTag("Wall"))
-    {
-      Destroy(gameObject);
-    }
+    transform.position += (Vector3.left * xForce) * Time.deltaTime;
   }
+
 }
