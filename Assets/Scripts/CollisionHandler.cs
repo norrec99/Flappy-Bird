@@ -5,10 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class CollisionHandler : MonoBehaviour
 {
+
+  GameOver gameOver;
   // Start is called before the first frame update
   void Start()
   {
-
+    gameOver = FindObjectOfType<GameOver>();
   }
 
   // Update is called once per frame
@@ -21,6 +23,7 @@ public class CollisionHandler : MonoBehaviour
   {
     if (Time.timeScale == 0f && Input.GetKey(KeyCode.Space))
     {
+
       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
       Time.timeScale = 1f;
     }
@@ -28,5 +31,6 @@ public class CollisionHandler : MonoBehaviour
   void OnCollisionEnter2D(Collision2D other)
   {
     Time.timeScale = 0f;
+    gameOver.GameOverText();
   }
 }
