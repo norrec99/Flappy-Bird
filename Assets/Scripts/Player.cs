@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-  [SerializeField] float jumpForce = 15f;
+  [SerializeField] float jumpForce = 10f;
   [SerializeField] int scorePerObstacle = 10;
 
   bool isStarted = false;
