@@ -34,7 +34,7 @@ public class Player : MonoBehaviour
 
   void ProcessJump()
   {
-    if (Input.GetKey(KeyCode.Space) && isStarted)
+    if (Input.GetKeyDown(KeyCode.Space) && isStarted)
     {
       rb.velocity = Vector2.up * jumpForce;
       if (!audioSource.isPlaying)
