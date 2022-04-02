@@ -6,6 +6,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
   [SerializeField] float jumpForce = 15f;
+  public int score = 0;
 
 
   Rigidbody2D rb;
@@ -27,6 +28,15 @@ public class Player : MonoBehaviour
     if (Input.GetKey(KeyCode.Space))
     {
       rb.velocity = Vector2.up * jumpForce;
+    }
+  }
+
+  private void OnTriggerEnter2D(Collider2D other)
+  {
+    if (other.gameObject.CompareTag("Score"))
+    {
+      score += 1;
+      Debug.Log("Score: " + score);
     }
   }
 
