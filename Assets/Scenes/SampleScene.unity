@@ -363,11 +363,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 70
+    m_FontSize: 175
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 10
-    m_MaxSize: 70
+    m_MaxSize: 182
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -941,8 +941,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 25.314928, y: 0}
+  m_SizeDelta: {x: -50.63015, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1462759193
 MonoBehaviour:
@@ -970,7 +970,7 @@ MonoBehaviour:
     m_FontStyle: 1
     m_BestFit: 1
     m_MinSize: 0
-    m_MaxSize: 40
+    m_MaxSize: 141
     m_Alignment: 6
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -1174,6 +1174,10 @@ PrefabInstance:
       propertyPath: goldSound
       value: 
       objectReference: {fileID: 8300000, guid: 440fe0d9bfb2c93418bcd7fb090d23e6, type: 3}
+    - target: {fileID: 150179705830755960, guid: b188bd9a5feffa44f8bb47fde8d78395, type: 3}
+      propertyPath: jumpForce
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 150179705830755960, guid: b188bd9a5feffa44f8bb47fde8d78395, type: 3}
       propertyPath: jumpSound
       value: 

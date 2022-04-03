@@ -38,11 +38,10 @@ public class Player : MonoBehaviour
 
   void ProcessJump()
   {
-    if (Input.GetKeyDown(KeyCode.Space) && isStarted)
+    if (Input.GetKeyDown(KeyCode.Space) && isStarted || Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began && isStarted)
     {
       rb.velocity = Vector2.up * jumpForce;
       audioSource.PlayOneShot(jumpSound);
-
     }
   }
 

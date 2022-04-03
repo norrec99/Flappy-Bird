@@ -21,7 +21,7 @@ public class CollisionHandler : MonoBehaviour
 
   private void ReloadLevel()
   {
-    if (Time.timeScale == 0f && Input.GetKey(KeyCode.Space))
+    if (Time.timeScale == 0f && Input.GetKey(KeyCode.Space) || Time.timeScale == 0f && Input.touchCount > 0)
     {
 
       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
