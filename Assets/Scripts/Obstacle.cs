@@ -15,6 +15,7 @@ public class Obstacle : MonoBehaviour
   void Update()
   {
     ProcessForward();
+    Destroy(gameObject, 5f);
   }
   void ProcessForward()
   {
